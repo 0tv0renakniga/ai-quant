@@ -1,0 +1,8 @@
+
+
+
+
+there isn't a login anymore so that will have to be removed from Account class
+i think the structure has changed so all urls and attributes will need to be changed
+
+good practice on building api.. almost from scratch
